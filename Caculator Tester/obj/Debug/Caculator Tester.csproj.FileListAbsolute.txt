@@ -1,0 +1,18 @@
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Caculator Tester.dll
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Caculator Tester.pdb
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Caculator2.exe
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Caculator2.pdb
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Caculator2.exe.config
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.AssemblyReference.cache
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.CoreCompileInputs.cache
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.CopyComplete
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\obj\Debug\Caculator Tester.dll
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\obj\Debug\Caculator Tester.pdb
+X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Data\TestData.csv

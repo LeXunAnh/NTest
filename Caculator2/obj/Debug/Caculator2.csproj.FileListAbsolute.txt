@@ -1,0 +1,10 @@
+X:\KTPM.FILE\Caculator-UTest\Caculator2\bin\Debug\Caculator2.exe.config
+X:\KTPM.FILE\Caculator-UTest\Caculator2\bin\Debug\Caculator2.exe
+X:\KTPM.FILE\Caculator-UTest\Caculator2\bin\Debug\Caculator2.pdb
+X:\KTPM.FILE\Caculator-UTest\Caculator2\obj\Debug\Caculator2.csproj.AssemblyReference.cache
+X:\KTPM.FILE\Caculator-UTest\Caculator2\obj\Debug\Caculator2.Caculator.resources
+X:\KTPM.FILE\Caculator-UTest\Caculator2\obj\Debug\Caculator2.Properties.Resources.resources
+X:\KTPM.FILE\Caculator-UTest\Caculator2\obj\Debug\Caculator2.csproj.GenerateResource.cache
+X:\KTPM.FILE\Caculator-UTest\Caculator2\obj\Debug\Caculator2.csproj.CoreCompileInputs.cache
+X:\KTPM.FILE\Caculator-UTest\Caculator2\obj\Debug\Caculator2.exe
+X:\KTPM.FILE\Caculator-UTest\Caculator2\obj\Debug\Caculator2.pdb
