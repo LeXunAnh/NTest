@@ -16,3 +16,52 @@ X:\KTPM.FILE\Caculator-UTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.
 X:\KTPM.FILE\Caculator-UTest\Caculator Tester\obj\Debug\Caculator Tester.dll
 X:\KTPM.FILE\Caculator-UTest\Caculator Tester\obj\Debug\Caculator Tester.pdb
 X:\KTPM.FILE\Caculator-UTest\Caculator Tester\bin\Debug\Data\TestData.csv
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Data\TestData.csv
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Caculator Tester.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Caculator Tester.pdb
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Caculator2.exe
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Caculator2.pdb
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Caculator2.exe.config
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Desktop\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.CopyComplete
+C:\Users\admin\Desktop\NTest\Caculator Tester\obj\Debug\Caculator Tester.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\obj\Debug\Caculator Tester.pdb
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Caculator Tester.dll.config
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Build.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.NET.StringTools.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\zh-Hant\Microsoft.Build.resources.dll

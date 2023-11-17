@@ -8,7 +8,6 @@ namespace Caculator_Tester
     public class UnitTest1
     {
         private Caculation c;
-        public TestContext TestContext { get; set; }
 
         [TestInitialize]// tao du lieu dung hung
         public void SetUp()
@@ -57,22 +56,6 @@ namespace Caculator_Tester
         {
             c = new Caculation(10, 0);
             c.Exectute("/");
-        }
-
-        //lien ket testdata voi project
-        [TestMethod]
-        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.CSV",
-        @"X:\KTPM.FILE\Caculator-UTest\Caculator Tester\Data\TestData.csv", "TestData#csv",
-        DataAccessMethod.Sequential)]
-        public void TestWithDataSourse()
-        {
-            int a,b, expected, actual;
-            a = int.Parse(TestContext.DataRow[0].ToString());
-            b = int.Parse(TestContext.DataRow[1].ToString());
-            expected = int.Parse(TestContext.DataRow[2].ToString());
-            c = new Caculation(a, b);
-            actual = c.Exectute("+");
-            Assert.AreEqual(expected, actual);
         }
     }
 }
