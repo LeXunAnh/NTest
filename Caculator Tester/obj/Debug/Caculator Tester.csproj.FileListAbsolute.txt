@@ -65,3 +65,9 @@ C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\ru\Microsoft.Build.resou
 C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\tr\Microsoft.Build.resources.dll
 C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
 C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\obj\Debug\Caculator_Tester.TestAuthor.resources
+C:\Users\admin\Desktop\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll

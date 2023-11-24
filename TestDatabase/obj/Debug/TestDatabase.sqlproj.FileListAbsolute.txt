@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\NTest\TestDatabase\bin\Debug\TestDatabase.dacpac
+C:\Users\admin\Desktop\NTest\TestDatabase\bin\Debug\TestDatabase.dll
+C:\Users\admin\Desktop\NTest\TestDatabase\bin\Debug\TestDatabase.pdb
+C:\Users\admin\Desktop\NTest\TestDatabase\obj\Debug\TestDatabase.dll
+C:\Users\admin\Desktop\NTest\TestDatabase\obj\Debug\TestDatabase.pdb
+C:\Users\admin\Desktop\NTest\TestDatabase\obj\Debug\TestDatabase.sqlproj.AssemblyReference.cache
