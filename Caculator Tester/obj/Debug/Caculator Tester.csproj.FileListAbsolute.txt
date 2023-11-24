@@ -71,3 +71,58 @@ C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Com
 C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
 C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Utilities.dll
 C:\Users\admin\Desktop\NTest\Caculator Tester\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Data\TestData.csv
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Caculator Tester.dll.config
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Caculator Tester.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Caculator Tester.pdb
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Caculator2.exe
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Components.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.Build.Framework.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.Build.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Collections.Immutable.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Text.Json.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.NET.StringTools.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Memory.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Threading.Tasks.Dataflow.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Text.Encodings.Web.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Numerics.Vectors.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Buffers.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Caculator2.pdb
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Caculator2.exe.config
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\cs\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\de\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\en\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\es\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\fr\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\it\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\ja\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\ko\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\pl\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\ru\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\tr\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.AssemblyReference.cache
+X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator_Tester.TestAuthor.resources
+X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.GenerateResource.cache
+X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.CoreCompileInputs.cache
+X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.CopyComplete
+X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.dll
+X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.pdb

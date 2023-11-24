@@ -4,3 +4,9 @@ C:\Users\admin\Desktop\NTest\TestDatabase\bin\Debug\TestDatabase.pdb
 C:\Users\admin\Desktop\NTest\TestDatabase\obj\Debug\TestDatabase.dll
 C:\Users\admin\Desktop\NTest\TestDatabase\obj\Debug\TestDatabase.pdb
 C:\Users\admin\Desktop\NTest\TestDatabase\obj\Debug\TestDatabase.sqlproj.AssemblyReference.cache
+X:\KTPM.FILE\NTest\TestDatabase\bin\Debug\TestDatabase.dacpac
+X:\KTPM.FILE\NTest\TestDatabase\bin\Debug\TestDatabase.dll
+X:\KTPM.FILE\NTest\TestDatabase\bin\Debug\TestDatabase.pdb
+X:\KTPM.FILE\NTest\TestDatabase\obj\Debug\TestDatabase.sqlproj.AssemblyReference.cache
+X:\KTPM.FILE\NTest\TestDatabase\obj\Debug\TestDatabase.dll
+X:\KTPM.FILE\NTest\TestDatabase\obj\Debug\TestDatabase.pdb
