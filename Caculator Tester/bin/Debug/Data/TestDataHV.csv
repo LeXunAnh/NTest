@@ -1,0 +1,4 @@
+﻿mssv,hoten,quequan,diem1,diem2,diem3,expected
+01,ABC,hcm,8,8,8,True
+03,GHF,cuchi,7,6,4,False
+05,HKJ,hanoi,3,4,5,False

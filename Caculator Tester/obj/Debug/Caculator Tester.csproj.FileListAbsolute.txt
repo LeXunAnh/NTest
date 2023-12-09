@@ -126,3 +126,7 @@ X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.CoreCompil
 X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.csproj.CopyComplete
 X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.dll
 X:\KTPM.FILE\NTest\Caculator Tester\obj\Debug\Caculator Tester.pdb
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\QLHV.exe
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\QLHV.pdb
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\QLHV.exe.config
+X:\KTPM.FILE\NTest\Caculator Tester\bin\Debug\Data\TestDataHV.csv

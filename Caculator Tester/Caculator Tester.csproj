@@ -68,6 +68,8 @@
     <Compile Include="PowerTest.cs" />
     <Compile Include="PolynomialTest.cs" />
     <Compile Include="RadixTest.cs" />
+    <Compile Include="HCNTest.cs" />
+    <Compile Include="TestQLHV.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
@@ -76,12 +78,19 @@
     </None>
     <None Include="Data\TestData2.csv" />
     <None Include="Data\TestData3.csv" />
+    <None Include="Data\TestDataHV.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Caculator2\Caculator2.csproj">
       <Project>{aaff8114-50d0-4767-8219-3fbbe0a59604}</Project>
       <Name>Caculator2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLHV\QLHV.csproj">
+      <Project>{1e5b6f57-1561-4586-b64e-af1332969b18}</Project>
+      <Name>QLHV</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

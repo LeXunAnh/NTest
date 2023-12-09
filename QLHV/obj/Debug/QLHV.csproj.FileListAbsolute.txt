@@ -1,0 +1,7 @@
+X:\KTPM.FILE\NTest\QLHV\obj\Debug\QLHV.csproj.AssemblyReference.cache
+X:\KTPM.FILE\NTest\QLHV\obj\Debug\QLHV.csproj.CoreCompileInputs.cache
+X:\KTPM.FILE\NTest\QLHV\bin\Debug\QLHV.exe.config
+X:\KTPM.FILE\NTest\QLHV\bin\Debug\QLHV.exe
+X:\KTPM.FILE\NTest\QLHV\bin\Debug\QLHV.pdb
+X:\KTPM.FILE\NTest\QLHV\obj\Debug\QLHV.exe
+X:\KTPM.FILE\NTest\QLHV\obj\Debug\QLHV.pdb
